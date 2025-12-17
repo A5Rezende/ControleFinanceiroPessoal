@@ -1,0 +1,55 @@
+# =========================
+# BACKEND - Django / Python
+# =========================
+
+# Ambiente virtual
+venv/
+env/
+.venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Django
+*.sqlite3
+media/
+staticfiles/
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# Logs
+*.log
+
+# =========================
+# FRONTEND - React / Node
+# =========================
+
+# Dependências
+node_modules/
+
+# Build
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =========================
+# GERAL
+# =========================
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# IDEs
+.idea/
