@@ -130,7 +130,11 @@ npm run dev
 ## 🎥 Demonstração
 
 📌 **Vídeo de apresentação do projeto:**
-*(adicione aqui o link do vídeo quando gravar)*
+*https://www.loom.com/share/1d5d1f8fb0754ff9aa4839e702b7660f*
+
+
+📌 **Vídeo de apresentação do codigo:**
+**
 
 ---
 
