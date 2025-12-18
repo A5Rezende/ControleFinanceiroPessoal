@@ -134,8 +134,12 @@ npm run dev
 
 
 📌 **Vídeo de apresentação do codigo:**
-**
 
+*Frontend:*
+*https://www.loom.com/share/5519d975f7d748b188a55fcd8f43ebe0*
+
+*Backend:*
+*https://www.loom.com/share/08ef19fa41f44505b1e1bf49bd463e57*
 ---
 
 ## 📌 Observações
