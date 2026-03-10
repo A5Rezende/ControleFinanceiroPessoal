@@ -94,6 +94,17 @@ CONTROLEFINANCEIROPESSOAL/
 
 ---
 
+## ⚙️ Conceitos aplicados
+
+- Autenticação JWT
+- Consumo de API REST
+- Filtros dinâmicos no backend
+- Organização modular no Django
+- Separação frontend/backend
+- Gerenciamento de estado no React
+
+---
+
 ## ⚙️ Como Rodar o Projeto Localmente
 
 ### 🔹 Backend
