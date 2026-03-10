@@ -64,10 +64,20 @@ Projeto desenvolvido com **backend em Django REST Framework** e **frontend em Re
 
 ---
 
+## 🏗️ Arquitetura
+
+Frontend (React)
+↓
+API REST (Django REST Framework)
+↓
+PostgreSQL
+
+---
+
 ## 📁 Estrutura do Projeto
 
 ```text
-CONTROLEFINANCEIROESSOAL/
+CONTROLEFINANCEIROPESSOAL/
 ├── backend/
 │   ├── categories/
 │   ├── records/
